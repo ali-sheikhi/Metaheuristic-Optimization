@@ -1,0 +1,1 @@
+##### Python pygmo library basic parameter GA, PSO paramater experimentation for the Rosenbrock problem.
